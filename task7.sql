@@ -153,8 +153,6 @@ select
     country,
     product_type,
     delay_probability,
-    current_delay_days,
-    inventory_days
 from vw_shipment_risk
 where delay_probability >= 0.70
 order by delay_probability desc;
