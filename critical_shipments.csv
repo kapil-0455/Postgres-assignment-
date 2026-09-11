@@ -1,0 +1,14 @@
+shipment_id,supplier_id,country,product_type,route_risk_score,political_risk_index,port_congestion_index,delay_probability,current_delay_days,inventory_days
+SHP0218,SUP002,Kuwait,Crude Oil,10.0,7.46,5.92,0.79,36,15
+SHP0308,SUP035,Qatar,Electronics,9.91,1.65,9.52,0.73,29,9
+SHP0655,SUP050,Qatar,Fertilizer,9.45,9.41,9.96,0.88,11,25
+SHP0189,SUP041,Kuwait,Electronics,9.38,8.73,6.8,0.79,11,16
+SHP0241,SUP011,Saudi Arabia,LNG,9.38,8.91,7.88,0.73,33,17
+SHP0611,SUP019,Germany,Fertilizer,9.23,6.65,7.47,0.71,29,14
+SHP0258,SUP007,India,Petrochemicals,9.2,9.56,7.0,0.71,15,16
+SHP0268,SUP025,Singapore,Electronics,8.9,8.46,5.0,0.75,24,18
+SHP0209,SUP039,Saudi Arabia,Fertilizer,8.88,5.83,5.12,0.7,10,12
+SHP0295,SUP024,Qatar,LNG,8.47,9.4,5.85,0.78,15,15
+SHP0449,SUP047,UAE,LNG,8.41,8.13,3.13,0.71,21,16
+SHP0154,SUP049,India,Crude Oil,7.84,7.35,9.88,0.79,25,30
+SHP0243,SUP016,Saudi Arabia,LNG,7.63,7.79,8.26,0.7,32,8
